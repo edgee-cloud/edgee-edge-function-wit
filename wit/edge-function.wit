@@ -1,4 +1,4 @@
-package edgee:native;
+package edgee:components@1.0.0;
 
 world edge-function {
    export wasi:http/incoming-handler@0.2.3;
